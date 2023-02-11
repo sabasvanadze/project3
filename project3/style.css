@@ -1,0 +1,56 @@
+* {
+    font-family: 'Cinzel', serif;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    cursor: pointer;
+}
+li {
+    list-style-type: none;
+
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    font-size: 35px;
+}
+.navigation {
+    padding: 15px 30px;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+img {
+    padding: 40px 90px;
+    width: 690px;
+    height: 890px;
+}
+.about {
+    margin-top: -850px;
+    margin-left: 820px;
+    padding: 30px;
+}
+.education {
+    margin-top: 50px;
+}
+.p1 {
+    margin-top: 50px;
+}
+.award {
+    margin-top: 80px;
+}
+.social {
+    text-align: center;
+    margin-top: 150px;
+}
+i {
+    padding: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
